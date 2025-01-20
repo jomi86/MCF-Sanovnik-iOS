@@ -1,11 +1,3 @@
----
-name: Sanovnik Privacy policy
-image: /Sanovnik-iOS-small.png
-link: https://apps.apple.com/us/app/sanovnik/id6740294629
-order: 1
-type: iOS
----
-
 # Sanovnik Privacy policy
 
 > Effective Date: 25.01.2025.
